@@ -4,19 +4,19 @@ getgenv().Configs = {
     ["Auto Buso"] = true,
     ["Auto turn on race v3"] = true,
     ["Auto turn on race v4"] = true,
-    ["FPS Boost"] = false,
+    ["FPS Boost"] = true,
     ["Click Time"] = 0.2,
     ["Bypass TP"] = true,
     ["Chat"] = {
-        ["Enable"] = false,
-        ["Message"] = {""}, -- Input your message here
+        ["Enable"] = true,
+        ["Message"] = {"Hello, Please Don't Report Me!"}, -- Input your message here
     },
     ["Run When Low Health"] = {
         ["Enable"] = true,
         ["Health"] = 3500,
         ["Come back"] = false
     },
-    ["Region"] = "Singapore", -- Singapore, United States, Germany, France, India, ??? ...
+    ["Region"] = "???", -- Singapore, United States, Germany, France, India, ??? ...
     ["Weapons"] = {
         ["Melee"] = {
             ["Enable"] = true,
@@ -94,7 +94,7 @@ getgenv().Configs = {
     },
     ["Theme"] = {
         ["Enable"] = true,
-        ["Name"] = "Hutao", -- Hutao, Raiden, Ayaka, Yelan
+        ["Name"] = "Yelan", -- Hutao, Raiden, Ayaka, Yelan
         ["Custom Theme"] = {
             ["Enable"] = false,
             ["Text Color"] = Color3.fromRGB(231, 85, 88),
@@ -103,7 +103,7 @@ getgenv().Configs = {
     },
     ["Webhook"] = {
         ["Enable"] = true,
-        ["Url"] = "",
+        ["Url"] = "https://discord.com/api/webhooks/1284857749884375142/vcqfogDEAmGNP-x8Om2cumwvqogdTgCtaJN12UQY7bLiBS-g168VcvFISI7Lj3nKoE8-",
         ["Image"] = ""
     }
 }
