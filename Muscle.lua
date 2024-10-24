@@ -1,5 +1,4 @@
 -- Muscle 1.18.2
--- is anyone even gonna see these comments
 
 
 if not game:IsLoaded() then
@@ -5229,20 +5228,11 @@ local function COBWDKS_fake_script() -- Fake Script: StarterGui.Muscle.Universal
 
 	-- Customize these with your own usernames and developers
 	local usernameColors = {
-		["XxxS_omeonexxX"] = Color3.fromHex("#f48fff"),
-		["Dextacular"] = Color3.fromHex("#f48fff"),
-		["Muscleplus"] = Color3.fromHex("#f48fff"),
-		["joystick531"] = Color3.fromHex("#ff0000"),
-		["givepetroblox"] = Color3.fromHex("#ff0000"),
-		["Bubberbolf"] = Color3.fromHex("#0030ff"),
+		["OnodaKun23"] = Color3.fromHex("#f48fff"),
 	}
 
 	local specialUsernameColors = {
-		["heyprestonitsme"] = Color3.fromHex("#ffac33"),
-		["vuralnovada"] = Color3.fromHex("#ffac33"),
-		["Doge3071"] = Color3.fromHex("#ffac33"),
-		["jacobisawsome307"] = Color3.fromHex("#ffac33"),
-		["fweemeimtrapwed"] = Color3.fromHex("ffac33"),
+		["OnodaKun23"] = Color3.fromHex("#ffac33"),
 	}
 
 	local mainText = "Muscle Developer"
